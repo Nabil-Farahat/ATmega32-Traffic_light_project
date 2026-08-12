@@ -2,7 +2,8 @@
 Traffic light using microcontroller ATmega32 (code/drives/circuit)
 # Project Overview
 Traffic lights are everyday objects that perform the critical task of preventing accidents and maintaining order. This project recreates a traffic light control system using an ATmega32 microcontroller, developed as a task for the IMT-Creativa course under the guidance of Mohamed Bedier.
-
+# consent
+YOU ARE NOT ALLOWED TO TAKE THIS AND POST IT AS YOUR OWN OR SUBMIT IT WITHOUT CLEAR CHANGES 
 # Technical Highlights
 
     Language: C
